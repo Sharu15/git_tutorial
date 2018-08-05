@@ -1,5 +1,9 @@
 hi there.
 new line1
 new line2
+<<<<<<< HEAD
 new1
 new2
+new3
+=======
+>>>>>>> parent of 689551f... third
